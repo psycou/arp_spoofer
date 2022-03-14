@@ -18,4 +18,4 @@ root@root:~$ pip install --pre scapy[basic]
 
 Usage 
 
-root@root:~$ sudo python arp_spoofer.py -t || --targer <Tareget> -g || --gateaway <Router IP Adress>
+root@root:~$ python arp_spoofer.py -t || --targer <Tareget> -g || --gateaway <Router IP Adress>
